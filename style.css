@@ -238,6 +238,12 @@ ul.our-primary-menu li ul li:hover ul{
     padding: 0 14px;
     color: #111;
     font-size: 19px;
+    transition:.5s;
+}
+
+
+.header-social ul li a:hover{
+    color:#e73c3e;
 }
 
 .icon {
